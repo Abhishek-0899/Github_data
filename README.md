@@ -9,6 +9,9 @@ The "Fetch GitHub Profile" project allows users to retrieve and display informat
 
 **Components - HTML, CSS , JAVASCRIPT**
 
+<img width="854" alt="1" src="https://github.com/Abhishek-0899/Github_data/assets/91514847/f56d0230-9009-494b-8806-de7afcafc7d1">
+<img width="815" alt="2" src="https://github.com/Abhishek-0899/Github_data/assets/91514847/a0154433-6d83-4bcb-8191-e38569ef5b39">
+
 **Potential Enhancements:**
 
 Implement additional error handling for various scenarios (e.g., rate limits, network errors).
